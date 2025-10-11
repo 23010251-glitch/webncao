@@ -2,16 +2,16 @@
 
 ## 🔗 Link Repo 
 
-[https://github.com/mcuong12/webncaoo](https://github.com/mcuong12/webncaoo)
+[https://github.com/23010251-glitch/webncao](https://github.com/23010251-glitch/webncao)
 
 ---
 
 ## 👤 Thông tin sinh viên
 
-- **Họ và tên:** Nguyễn Mạnh Cường  
-- **Mã sinh viên:** 23010271
+- **Họ và tên:** Lê Đức Anh  
+- **Mã sinh viên:** 23010251
 - **Lớp:** K17-CNTT3  
-- **Môn học:** Thiết kế Web nâng cao (TH3) 
+- **Môn học:** Thiết kế Web nâng cao (TH5) 
 ---
 
 ## 📝 Giới thiệu dự án
