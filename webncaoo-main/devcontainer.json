@@ -1,0 +1,19 @@
+{
+  "name": "Laravel PHP 8.2 Codespace",
+  // Sử dụng image PHP chính thức của devcontainers với PHP 8.2
+  "image": "mcr.microsoft.com/devcontainers/php:8.2", 
+  
+  "features": {
+    // Cài đặt MySQL cho database
+    "ghcr.io/devcontainers/features/mysql:1": {
+      "version": "latest",
+      "pmaPort": 8080 // Tùy chọn: Thêm phpMyAdmin để quản lý DB
+    }
+  },
+  
+  // Các cổng cần mở
+  "forwardPorts": [8000, 3306],
+  
+  // Lệnh chạy tự động sau khi Codespace được tạo
+  "postCreateCommand": "cd webncaoo-main && composer install --ignore-platform-reqs && npm install"
+}
