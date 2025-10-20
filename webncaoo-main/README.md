@@ -95,7 +95,7 @@ Dự án sử dụng các công nghệ sau:
 ## 🚀 Hướng dẫn cài đặt
 
 ```bash
-git clone https://github.com/mcuong12/webncaoo.git
+git clone https://github.com/23010251-glitch/webncao.git
 cd library-management
 composer install
 cp .env.example .env
